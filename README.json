@@ -649,7 +649,7 @@
             "last_commit": "2026-05-10T11:00:59Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5406
+            "stars": 5407
           }
         },
         {
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:13:13.843Z",
+    "last_updated": "2026-08-13T21:39:20.686Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
