@@ -90,7 +90,7 @@
             "last_commit": "2026-07-03T03:51:24Z",
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1947
+            "stars": 1948
           }
         },
         {
@@ -343,7 +343,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-07T23:27:31Z",
+            "last_commit": "2026-08-15T07:48:18Z",
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3633
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:20:05.457Z",
+    "last_updated": "2026-08-15T21:15:11.799Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
