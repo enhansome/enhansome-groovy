@@ -646,10 +646,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-10T11:00:59Z",
+            "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5407
+            "stars": 5408
           }
         },
         {
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:15:11.799Z",
+    "last_updated": "2026-08-16T21:14:22.093Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
