@@ -42,7 +42,7 @@
             "last_commit": "2026-07-02T22:39:02Z",
             "owner": "groovy",
             "repo": "GMavenPlus",
-            "stars": 308
+            "stars": 307
           }
         },
         {
@@ -343,10 +343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T07:48:18Z",
+            "last_commit": "2026-08-17T00:39:58Z",
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3633
+            "stars": 3632
           }
         },
         {
@@ -649,7 +649,7 @@
             "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5408
+            "stars": 5410
           }
         },
         {
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:14:22.093Z",
+    "last_updated": "2026-08-17T21:20:09.919Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
