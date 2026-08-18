@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,462 | 🐛 18 | 🌐 Java | 📅 2026-08-17 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,462 | 🐛 25 | 🌐 Java | 📅 2026-08-18 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
