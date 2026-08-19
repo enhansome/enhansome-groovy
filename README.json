@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5183393,
             "language": "Groovy",
             "last_commit": "2026-08-12T14:21:46Z",
             "owner": "jenkinsci",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9674057,
             "language": "Groovy",
             "last_commit": "2020-10-13T10:40:55Z",
             "owner": "pledbrook",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2311049,
             "language": "Java",
             "last_commit": "2026-07-02T22:39:02Z",
             "owner": "groovy",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527752986,
             "language": "Groovy",
             "last_commit": "2025-12-14T20:42:15Z",
             "owner": "cbmarcum",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101468083,
             "language": "Groovy",
             "last_commit": "2018-04-22T08:43:41Z",
             "owner": "kdabir",
@@ -77,7 +82,7 @@
       "title": "Build tools, setup and CI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7763363,
             "language": "Java",
             "last_commit": "2026-07-03T03:51:24Z",
             "owner": "ratpack",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 158886,
             "language": "Groovy",
             "last_commit": "2010-02-11T01:46:24Z",
             "owner": "grails",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253653,
             "language": "Groovy",
             "last_commit": "2019-06-02T00:58:43Z",
             "owner": "gaelyk",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6797775,
             "language": "Groovy",
             "last_commit": "2019-01-31T04:13:09Z",
             "owner": "kdabir",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24739726,
             "language": "JavaScript",
             "last_commit": "2020-08-31T23:00:31Z",
             "owner": "javaConductor",
@@ -153,7 +163,7 @@
       "title": "Web Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729994,
             "language": "Groovy",
             "last_commit": "2016-04-29T16:50:30Z",
             "owner": "poiati",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6402693,
             "language": "Groovy",
             "last_commit": "2017-04-18T04:15:15Z",
             "owner": "EqualExperts",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3824830,
             "language": "Groovy",
             "last_commit": "2022-03-28T03:07:07Z",
             "owner": "kdabir",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1037637,
             "language": "Groovy",
             "last_commit": "2015-11-23T22:17:29Z",
             "owner": "tlberglund",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15974918,
             "language": "Groovy",
             "last_commit": "2019-09-10T10:57:33Z",
             "owner": "elastic",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27337028,
             "language": "Groovy",
             "last_commit": "2016-02-25T13:52:37Z",
             "owner": "cjstehno",
@@ -243,7 +259,7 @@
       "title": "Database"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1374793,
             "language": "Groovy",
             "last_commit": "2024-03-04T11:59:19Z",
             "owner": "jwagenleitner",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5808829,
             "language": "Java",
             "last_commit": "2023-12-17T03:34:53Z",
             "owner": "jgritman",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65586420,
             "language": "Java",
             "last_commit": "2022-01-04T07:30:40Z",
             "owner": "http-builder-ng",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106599805,
             "language": "Groovy",
             "last_commit": "2021-08-04T16:02:29Z",
             "owner": "http-builder-ng",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45925524,
             "language": "Groovy",
             "last_commit": "2021-07-05T19:36:58Z",
             "owner": "eginez",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356050775,
             "language": "Java",
             "last_commit": "2025-03-13T17:54:26Z",
             "owner": "tambapps",
@@ -333,7 +355,7 @@
       "title": "HTTP"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161862,
             "language": "Java",
             "last_commit": "2026-08-17T00:39:58Z",
             "owner": "spockframework",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813783,
             "language": "Groovy",
             "last_commit": "2026-08-11T08:59:12Z",
             "owner": "apache",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2208520,
             "language": "Groovy",
             "last_commit": "2017-05-28T14:51:41Z",
             "owner": "betamaxteam",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75326472,
             "language": "Java",
             "last_commit": "2026-03-26T17:43:01Z",
             "owner": "cjstehno",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33197925,
             "language": "Groovy",
             "last_commit": "2025-11-17T17:34:51Z",
             "owner": "TouK",
@@ -409,7 +436,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2436367,
             "language": "Groovy",
             "last_commit": "2023-12-16T18:22:11Z",
             "owner": "GPars",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23095934,
             "language": "Groovy",
             "last_commit": "2020-01-08T15:52:15Z",
             "owner": "ReactiveX",
@@ -443,7 +472,7 @@
       "title": "Concurrency"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -452,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13151435,
             "language": "Groovy",
             "last_commit": "2022-12-16T01:23:37Z",
             "owner": "kobo",
@@ -466,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13493149,
             "language": "Groovy",
             "last_commit": "2025-04-28T13:27:15Z",
             "owner": "sysgears",
@@ -477,7 +508,7 @@
       "title": "Static Web"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -486,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6564013,
             "language": "Groovy",
             "last_commit": "2022-07-12T15:16:37Z",
             "owner": "timyates",
@@ -500,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7647039,
             "language": "Groovy",
             "last_commit": "2015-08-23T13:57:50Z",
             "owner": "mperry",
@@ -514,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4148040,
             "language": "Java",
             "last_commit": "2018-12-12T08:43:27Z",
             "owner": "timyates",
@@ -528,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16526909,
             "language": "Groovy",
             "last_commit": "2017-11-06T16:11:02Z",
             "owner": "johnnywey",
@@ -542,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16724020,
             "language": "Groovy",
             "last_commit": "2023-10-24T00:57:02Z",
             "owner": "kayr",
@@ -556,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15045114,
             "language": "Groovy",
             "last_commit": "2023-05-15T11:38:44Z",
             "owner": "dnahodil",
@@ -575,6 +612,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9331407,
                 "language": "Java",
                 "last_commit": "2015-06-27T07:34:48Z",
                 "owner": "gperfutils",
@@ -589,6 +627,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9331388,
                 "language": "Groovy",
                 "last_commit": "2015-02-14T10:49:04Z",
                 "owner": "gperfutils",
@@ -602,7 +641,7 @@
       "title": "Language Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -611,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10649887,
             "language": "Groovy",
             "last_commit": "2024-08-20T19:28:51Z",
             "owner": "ysb33r",
@@ -625,6 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15917405,
             "language": "Groovy",
             "last_commit": "2021-07-13T23:14:55Z",
             "owner": "kdabir",
@@ -636,7 +677,7 @@
       "title": "File System Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -645,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80640282,
             "language": "Java",
             "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
@@ -659,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9346373,
             "language": "Groovy",
             "last_commit": "2023-03-22T16:36:11Z",
             "owner": "sshoogr",
@@ -673,6 +716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140856445,
             "language": "Gradle",
             "last_commit": "2018-10-13T23:49:00Z",
             "owner": "Vorlonsoft",
@@ -687,6 +731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143598149,
             "language": "Gradle",
             "last_commit": "2018-09-29T20:20:31Z",
             "owner": "Vorlonsoft",
@@ -698,7 +743,7 @@
       "title": "Scripting Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -707,36 +752,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4879854,
             "language": "Groovy",
             "last_commit": "2016-11-13T21:37:41Z",
             "owner": "zhaber",
             "repo": "grules",
             "stars": 39
           }
-        },
-        {
-          "node_type": "item",
-          "title": "n-cube",
-          "description": "a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.",
-          "children": []
         }
       ],
       "title": "Rule Engines"
-    },
-    {
-      "description": "You can use the script to search awesome projects on github and generate the entry prepoulated with project name, repo url and description in markdown format. All you need to do is place it under right group in the markdown list in .",
-      "items": [],
-      "title": "Using awesome.groovy script"
-    },
-    {
-      "description": "to find out repos where language is groovy and whose name contain gpars and\nto find out repos by user 'kdabir' and name contains glide\nto find out repos whose name contains glide\nIf you are lazy to download the repo, an easy way is:\nTo all the awesome-* repos out there and their aggreators like this and this.",
-      "items": [],
-      "title": "Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:18:09.534Z",
+    "last_updated": "2026-08-19T12:30:38.377Z",
     "original_repository": "kdabir/awesome-groovy",
+    "original_repository_id": 21746915,
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
     "enhanced_repository_description": null,
