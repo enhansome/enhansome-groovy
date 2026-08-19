@@ -384,7 +384,7 @@
             "last_commit": "2026-08-11T08:59:12Z",
             "owner": "apache",
             "repo": "groovy-geb",
-            "stars": 1174
+            "stars": 1173
           }
         },
         {
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:38.377Z",
+    "last_updated": "2026-08-19T21:19:58.811Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_id": 21746915,
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
