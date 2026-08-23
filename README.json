@@ -369,7 +369,7 @@
             "last_commit": "2026-08-22T06:46:07Z",
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3632
+            "stars": 3631
           }
         },
         {
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:16:20.273Z",
+    "last_updated": "2026-08-23T21:15:40.046Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_id": 21746915,
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
