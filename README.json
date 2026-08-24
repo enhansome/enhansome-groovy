@@ -476,6 +476,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Sonar-Groovy",
+          "description": "SonarQube Groovy plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4810310,
+            "language": "Java",
+            "last_commit": "2021-04-26T17:52:02Z",
+            "owner": "pmayweg",
+            "repo": "sonar-groovy",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Code Analysis"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grooscript",
+          "description": "Converts your Groovy code to Javascript",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 5573954,
+            "language": "Groovy",
+            "last_commit": "2022-08-01T19:08:03Z",
+            "owner": "chiquitinxx",
+            "repo": "grooscript",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "Transpilers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Gaiden",
           "description": "Gaiden is a tool that makes it easy to create documentation with Markdown.",
           "children": [],
@@ -691,7 +733,7 @@
             "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5410
+            "stars": 5411
           }
         },
         {
@@ -765,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:15:40.046Z",
+    "last_updated": "2026-08-24T14:18:00.226Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_id": 21746915,
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
