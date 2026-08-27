@@ -96,7 +96,7 @@
             "last_commit": "2026-07-03T03:51:24Z",
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1948
+            "stars": 1949
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 1161862,
             "language": "Java",
-            "last_commit": "2026-08-25T14:05:49Z",
+            "last_commit": "2026-08-26T23:36:15Z",
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3631
@@ -733,7 +733,7 @@
             "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5412
+            "stars": 5414
           }
         },
         {
@@ -807,7 +807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:21:48.335Z",
+    "last_updated": "2026-08-27T00:23:25.224Z",
     "original_repository": "kdabir/awesome-groovy",
     "original_repository_id": 21746915,
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
