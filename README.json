@@ -733,7 +733,7 @@
             "last_commit": "2026-08-16T07:51:55Z",
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5414
+            "stars": 5415
           }
         },
         {
@@ -807,9 +807,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:23:25.224Z",
-    "original_repository": "kdabir/awesome-groovy",
-    "original_repository_id": 21746915,
+    "last_updated": "2026-08-27T11:41:11.229Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21746915,
+      "language": "Groovy",
+      "last_commit": "2024-10-26T11:25:42Z",
+      "owner": "kdabir",
+      "repo": "awesome-groovy",
+      "stars": 740
+    },
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
     "enhanced_repository_description": null,
