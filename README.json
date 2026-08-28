@@ -16,7 +16,8 @@
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1924
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pledbrook",
             "repo": "lazybones",
             "stars": 617
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "groovy",
             "repo": "GMavenPlus",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "cbmarcum",
             "repo": "skeletal",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "kdabir",
             "repo": "travis-groovy",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Build tools, setup and CI"
@@ -97,7 +102,8 @@
             "owner": "ratpack",
             "repo": "ratpack",
             "stars": 1949
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "grails",
             "repo": "grails",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "gaelyk",
             "repo": "gaelyk",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "kdabir",
             "repo": "glide",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "javaConductor",
             "repo": "gserv",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Web Frameworks"
@@ -178,7 +188,8 @@
             "owner": "poiati",
             "repo": "gmongo",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "EqualExperts",
             "repo": "Tayra",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "kdabir",
             "repo": "gstorm",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "tlberglund",
             "repo": "groovy-liquibase",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "elastic",
             "repo": "elasticsearch-groovy",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "cjstehno",
             "repo": "effigy",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Database"
@@ -274,7 +290,8 @@
             "owner": "jwagenleitner",
             "repo": "groovy-wslite",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "jgritman",
             "repo": "httpbuilder",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "http-builder-ng",
             "repo": "http-builder-ng",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "http-builder-ng",
             "repo": "gradle-http-plugin",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "eginez",
             "repo": "AsyncRestClient",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "tambapps",
             "repo": "hyperpoet",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "HTTP"
@@ -370,7 +392,8 @@
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3631
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1173
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "betamaxteam",
             "repo": "betamax",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "cjstehno",
             "repo": "ersatz",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "TouK",
             "repo": "http-mock-server",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Testing"
@@ -451,7 +478,8 @@
             "owner": "GPars",
             "repo": "GPars",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "ReactiveX",
             "repo": "RxGroovy",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Concurrency"
@@ -487,7 +516,8 @@
             "owner": "pmayweg",
             "repo": "sonar-groovy",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Code Analysis"
@@ -508,7 +538,8 @@
             "owner": "chiquitinxx",
             "repo": "grooscript",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Transpilers"
@@ -529,7 +560,8 @@
             "owner": "kobo",
             "repo": "gaiden",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -544,7 +576,8 @@
             "owner": "sysgears",
             "repo": "grain",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Static Web"
@@ -565,7 +598,8 @@
             "owner": "timyates",
             "repo": "groovy-common-extensions",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "mperry",
             "repo": "functionalgroovy",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "timyates",
             "repo": "groovy-stream",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "johnnywey",
             "repo": "flipside",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "kayr",
             "repo": "fuzzy-csv",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -640,7 +678,8 @@
             "owner": "dnahodil",
             "repo": "groovy-extra-list-behaviour",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "group",
@@ -660,7 +699,8 @@
                 "owner": "gperfutils",
                 "repo": "gprof",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T05:03:19.177Z"
             },
             {
               "node_type": "item",
@@ -675,7 +715,8 @@
                 "owner": "gperfutils",
                 "repo": "gbench",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T05:03:19.177Z"
             }
           ]
         }
@@ -698,7 +739,8 @@
             "owner": "ysb33r",
             "repo": "groovy-vfs",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -713,7 +755,8 @@
             "owner": "kdabir",
             "repo": "directree",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "File System Utilities"
@@ -734,7 +777,8 @@
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5415
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -749,7 +793,8 @@
             "owner": "sshoogr",
             "repo": "sshoogr",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -764,7 +809,8 @@
             "owner": "Vorlonsoft",
             "repo": "GradleMavenPush",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         },
         {
           "node_type": "item",
@@ -779,7 +825,8 @@
             "owner": "Vorlonsoft",
             "repo": "EasyDokkaPlugin",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Scripting Tools"
@@ -800,14 +847,15 @@
             "owner": "zhaber",
             "repo": "grules",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:03:19.177Z"
         }
       ],
       "title": "Rule Engines"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:11.229Z",
+    "last_updated": "2026-08-28T05:03:19.177Z",
     "original_repository_info": {
       "archived": false,
       "id": 21746915,
