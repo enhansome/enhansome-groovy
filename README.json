@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Groovy DSL for Jenkins Jobs",
+            "homepage": "https://plugins.jenkins.io/job-dsl/",
             "id": 5183393,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T14:21:46Z",
+            "open_issues": 185,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
-            "stars": 1924
+            "stars": 1924,
+            "topics": [
+              "adopt-this-plugin",
+              "groovy",
+              "jenkins"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple project creation tool that uses packaged project templates.",
+            "homepage": null,
             "id": 9674057,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-13T10:40:55Z",
+            "open_issues": 53,
             "owner": "pledbrook",
             "repo": "lazybones",
-            "stars": 617
+            "stars": 617,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -42,12 +56,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rewrite of GMaven, a Maven plugin for Groovy",
+            "homepage": null,
             "id": 2311049,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-02T22:39:02Z",
+            "open_issues": 40,
             "owner": "groovy",
             "repo": "GMavenPlus",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "groovy",
+              "maven-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -58,12 +80,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple project creation tool that uses packaged templates",
+            "homepage": null,
             "id": 527752986,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-14T20:42:15Z",
+            "open_issues": 13,
             "owner": "cbmarcum",
             "repo": "skeletal",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "project-template",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -74,12 +104,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "execute groovy scripts on travis-ci",
+            "homepage": null,
             "id": 101468083,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2018-04-22T08:43:41Z",
+            "open_issues": 0,
             "owner": "kdabir",
             "repo": "travis-groovy",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "groovy",
+              "scripts",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -96,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lean & powerful HTTP apps",
+            "homepage": "https://ratpack.io",
             "id": 7763363,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T03:51:24Z",
+            "open_issues": 216,
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1949
+            "stars": 1949,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -112,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A powerful web application framework based on the Groovy language",
+            "homepage": "http://grails.org",
             "id": 158886,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2010-02-11T01:46:24Z",
+            "open_issues": 0,
             "owner": "grails",
             "repo": "grails",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -128,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Groovy toolkit for Google App Engine Java",
+            "homepage": "http://gaelyk.appspot.com",
             "id": 253653,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2019-06-02T00:58:43Z",
+            "open_issues": 35,
             "owner": "gaelyk",
             "repo": "gaelyk",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -144,12 +198,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create awesome apps on Google App Engine in a snap",
+            "homepage": "https://glide-gae.appspot.com",
             "id": 6797775,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2019-01-31T04:13:09Z",
+            "open_issues": 13,
             "owner": "kdabir",
             "repo": "glide",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "google-app-engine",
+              "groovy-language",
+              "no-ops",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -160,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GServ: Framework for SPAs and REST based services.",
+            "homepage": null,
             "id": 24739726,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-31T23:00:31Z",
+            "open_issues": 14,
             "owner": "javaConductor",
             "repo": "gserv",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -182,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Groovy wrapper to the mongodb Java driver",
+            "homepage": "http://blog.paulopoiati.com/2010/06/20/gmongo-0-5-released/",
             "id": 729994,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2016-04-29T16:50:30Z",
+            "open_issues": 5,
             "owner": "poiati",
             "repo": "gmongo",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -198,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Incremental backup tool for MongoDB",
+            "homepage": null,
             "id": 6402693,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-18T04:15:15Z",
+            "open_issues": 5,
             "owner": "EqualExperts",
             "repo": "Tayra",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -214,12 +293,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple ORM for databases and CSV files. Intended to be used in groovy scripts and small projects",
+            "homepage": null,
             "id": 3824830,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2022-03-28T03:07:07Z",
+            "open_issues": 28,
             "owner": "kdabir",
             "repo": "gstorm",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "csv",
+              "groovy",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "orm"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -230,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Groovy DSL for Liquibase",
+            "homepage": null,
             "id": 1037637,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2015-11-23T22:17:29Z",
+            "open_issues": 1,
             "owner": "tlberglund",
             "repo": "groovy-liquibase",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -246,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Elasticsearch Groovy client",
+            "homepage": null,
             "id": 15974918,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T10:57:33Z",
+            "open_issues": 0,
             "owner": "elastic",
             "repo": "elasticsearch-groovy",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -262,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Groovy annotation-driven JDBC row mapping framework.",
+            "homepage": "http://cjstehno.github.io/effigy",
             "id": 27337028,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2016-02-25T13:52:37Z",
+            "open_issues": 0,
             "owner": "cjstehno",
             "repo": "effigy",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -284,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight SOAP and REST webservice clients for Groovy",
+            "homepage": null,
             "id": 1374793,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-04T11:59:19Z",
+            "open_issues": 41,
             "owner": "jwagenleitner",
             "repo": "groovy-wslite",
-            "stars": 398
+            "stars": 398,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -300,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 5808829,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-12-17T03:34:53Z",
+            "open_issues": 54,
             "owner": "jgritman",
             "repo": "httpbuilder",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -316,12 +431,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The easy HTTP client for Groovy (and Java).",
+            "homepage": "https://http-builder-ng.github.io/http-builder-ng/",
             "id": 65586420,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-04T07:30:40Z",
+            "open_issues": 23,
             "owner": "http-builder-ng",
             "repo": "http-builder-ng",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "dormant",
+              "groovy",
+              "http-builder-ng",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -332,12 +457,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gradle plugin providing support for using HttpBuilder-NG to make HTTP requests as Gradle Tasks.",
+            "homepage": "https://http-builder-ng.github.io/gradle-http-plugin/",
             "id": 106599805,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-04T16:02:29Z",
+            "open_issues": 6,
             "owner": "http-builder-ng",
             "repo": "gradle-http-plugin",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "dormant",
+              "gradle-plugin",
+              "groovy",
+              "http",
+              "httpbuilder-ng",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -348,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a light weight extension of groovy's RESTClient to support asyn call via RxJava",
+            "homepage": null,
             "id": 45925524,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-05T19:36:58Z",
+            "open_issues": 0,
             "owner": "eginez",
             "repo": "AsyncRestClient",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -364,12 +506,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Groovy-friendly and Marcel-friendly HTTP client backed by OkHttp",
+            "homepage": "https://github.com/tambapps/hyperpoet/wiki",
             "id": 356050775,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-13T17:54:26Z",
+            "open_issues": 0,
             "owner": "tambapps",
             "repo": "hyperpoet",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "groovy",
+              "http",
+              "http-client"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -386,12 +537,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Enterprise-ready testing and specification framework.",
+            "homepage": "https://spockframework.org",
             "id": 1161862,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T23:36:15Z",
+            "open_issues": 204,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3631
+            "stars": 3631,
+            "topics": [
+              "bdd-style-testing-framework",
+              "groovy",
+              "java",
+              "spock-framework",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -402,12 +564,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Geb: Very Groovy Browser Automation",
+            "homepage": "https://groovy.apache.org/geb",
             "id": 813783,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T08:59:12Z",
+            "open_issues": 20,
             "owner": "apache",
             "repo": "groovy-geb",
-            "stars": 1173
+            "stars": 1173,
+            "topics": [
+              "apache",
+              "bdd-style-testing-framework",
+              "browser-testing",
+              "devtools",
+              "e2e-testing",
+              "end-to-end-testing",
+              "functional-testing",
+              "groovy",
+              "java",
+              "open-source",
+              "selenium",
+              "test",
+              "test-automation",
+              "testing-framework",
+              "testing-library",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -418,12 +602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.",
+            "homepage": "http://betamax.software",
             "id": 2208520,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-28T14:51:41Z",
+            "open_issues": 16,
             "owner": "betamaxteam",
             "repo": "betamax",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -434,12 +623,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 A simulated HTTP server for testing client code with configurable responses.",
+            "homepage": "https://cjstehno.github.io/ersatz",
             "id": 75326472,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-26T17:43:01Z",
+            "open_issues": 10,
             "owner": "cjstehno",
             "repo": "ersatz",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "groovy",
+              "http",
+              "java",
+              "mock"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -450,12 +649,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 33197925,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2025-11-17T17:34:51Z",
+            "open_issues": 5,
             "owner": "TouK",
             "repo": "http-mock-server",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -472,12 +676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The GPars concurrency and parallelism framework for the JVM",
+            "homepage": "http://gpars.org",
             "id": 2436367,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-16T18:22:11Z",
+            "open_issues": 22,
             "owner": "GPars",
             "repo": "GPars",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -488,12 +697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava bindings for Groovy",
+            "homepage": null,
             "id": 23095934,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2020-01-08T15:52:15Z",
+            "open_issues": 5,
             "owner": "ReactiveX",
             "repo": "RxGroovy",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -510,12 +724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SonarQube plugin for Groovy",
+            "homepage": null,
             "id": 4810310,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2021-04-26T17:52:02Z",
+            "open_issues": 28,
             "owner": "pmayweg",
             "repo": "sonar-groovy",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -532,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Converts your Groovy code to Javascript",
+            "homepage": "https://www.grooscript.org",
             "id": 5573954,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-01T19:08:03Z",
+            "open_issues": 6,
             "owner": "chiquitinxx",
             "repo": "grooscript",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -554,12 +778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gaiden is a tool that makes it easy to create documentation with Markdown.",
+            "homepage": null,
             "id": 13151435,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-16T01:23:37Z",
+            "open_issues": 10,
             "owner": "kobo",
             "repo": "gaiden",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -570,12 +799,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grain is a lightweight and powerful static website generator with custom themes to help create static, SEO-friendly websites or a blog in no time.",
+            "homepage": "https://sysgears.com/grain",
             "id": 13493149,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-28T13:27:15Z",
+            "open_issues": 0,
             "owner": "sysgears",
             "repo": "grain",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "grain-framework",
+              "groovy",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -592,12 +830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 6564013,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-12T15:16:37Z",
+            "open_issues": 6,
             "owner": "timyates",
             "repo": "groovy-common-extensions",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -608,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional programming in Groovy",
+            "homepage": null,
             "id": 7647039,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2015-08-23T13:57:50Z",
+            "open_issues": 23,
             "owner": "mperry",
             "repo": "functionalgroovy",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -624,12 +872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)",
+            "homepage": "http://timyates.github.io/groovy-stream/javadoc/index.html?groovy/stream/Stream.html",
             "id": 4148040,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-12T08:43:27Z",
+            "open_issues": 4,
             "owner": "timyates",
             "repo": "groovy-stream",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -640,12 +893,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Groovy options library",
+            "homepage": null,
             "id": 16526909,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2017-11-06T16:11:02Z",
+            "open_issues": 3,
             "owner": "johnnywey",
             "repo": "flipside",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -656,12 +914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A groovy/java tabular Data (from CSV,SQL,JSON) processing library that supports fuzzy column matching,tranformations/merging/querying",
+            "homepage": null,
             "id": 16724020,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-24T00:57:02Z",
+            "open_issues": 0,
             "owner": "kayr",
             "repo": "fuzzy-csv",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -672,12 +935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":1234: Some extra functionality for Groovy Lists",
+            "homepage": null,
             "id": 15045114,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2023-05-15T11:38:44Z",
+            "open_issues": 2,
             "owner": "dnahodil",
             "repo": "groovy-extra-list-behaviour",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -693,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GProf - The profiling module for Groovy",
+                "homepage": "http://gprof.gperfutils.org/",
                 "id": 9331407,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-06-27T07:34:48Z",
+                "open_issues": 1,
                 "owner": "gperfutils",
                 "repo": "gprof",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:19.177Z"
             },
@@ -709,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GBench - The benchmarking module for Groovy",
+                "homepage": "http://gbench.gperfutils.org/",
                 "id": 9331388,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2015-02-14T10:49:04Z",
+                "open_issues": 3,
                 "owner": "gperfutils",
                 "repo": "gbench",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:19.177Z"
             }
@@ -733,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A DSL for Groovy on top of Apache VFS2",
+            "homepage": null,
             "id": 10649887,
             "language": "Groovy",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-20T19:28:51Z",
+            "open_issues": 31,
             "owner": "ysb33r",
             "repo": "groovy-vfs",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -749,12 +1032,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Simple DSL to create Directory Tree with Text Files",
+            "homepage": null,
             "id": 15917405,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2021-07-13T23:14:55Z",
+            "open_issues": 9,
             "owner": "kdabir",
             "repo": "directree",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "directory",
+              "dsl",
+              "file",
+              "groovy",
+              "jvm",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -771,12 +1066,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. ",
+            "homepage": "https://picocli.info",
             "id": 80640282,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
+            "open_issues": 171,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5418
+            "stars": 5418,
+            "topics": [
+              "annotations",
+              "ansi",
+              "ansi-colors",
+              "argument-parsing",
+              "autocomplete",
+              "bash-completion",
+              "cli",
+              "cli-framework",
+              "command-line",
+              "command-line-parser",
+              "commandline",
+              "completion",
+              "executable",
+              "git",
+              "graalvm",
+              "java",
+              "native-image",
+              "options-parsing",
+              "parser",
+              "subcommands"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -787,12 +1108,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Groovy-based DSL for working with remote SSH servers.",
+            "homepage": null,
             "id": 9346373,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-22T16:36:11Z",
+            "open_issues": 30,
             "owner": "sshoogr",
             "repo": "sshoogr",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "config-management",
+              "dsl",
+              "groovy",
+              "ssh",
+              "ssh-client"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -803,12 +1135,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper to upload Gradle Android Artifacts, Gradle Java Artifacts and Gradle Kotlin Artifacts to Maven repositories (JCenter, Maven Central, Corporate staging/snapshot servers and local Maven repositories).",
+            "homepage": "https://vorlonsoft.github.io/GradleMavenPush/",
             "id": 140856445,
             "language": "Gradle",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-13T23:49:00Z",
+            "open_issues": 1,
             "owner": "Vorlonsoft",
             "repo": "GradleMavenPush",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "aar",
+              "aar-library",
+              "android",
+              "android-library",
+              "artifact",
+              "artifacts",
+              "gradle",
+              "gradle-build",
+              "gradle-java",
+              "jar",
+              "java",
+              "java-library",
+              "jcenter",
+              "kotlin",
+              "kotlin-library",
+              "maven",
+              "maven-repository",
+              "mavencentral",
+              "snapshot",
+              "staging"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         },
@@ -819,12 +1177,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gradle Script plugin to generate documentation by Dokka documentation engine in Javadoc or other formats for Java, Kotlin, Android and non-Android projects. It's very easy, you don't need to add to dependencies section additional classpath or think about compatibility issues, you don't need additional repositories also.",
+            "homepage": "https://vorlonsoft.github.io/EasyDokkaPlugin/",
             "id": 143598149,
             "language": "Gradle",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-29T20:20:31Z",
+            "open_issues": 3,
             "owner": "Vorlonsoft",
             "repo": "EasyDokkaPlugin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "android",
+              "dokka",
+              "gradle",
+              "gradle-android-plugin",
+              "gradle-plugin",
+              "gradle-task",
+              "java",
+              "javadoc",
+              "javadoc-documentation",
+              "javadocs",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -841,12 +1216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grules - rule engine for data preprocessing",
+            "homepage": null,
             "id": 4879854,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2016-11-13T21:37:41Z",
+            "open_issues": 0,
             "owner": "zhaber",
             "repo": "grules",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
         }
@@ -855,15 +1235,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:01:03.112Z",
+    "last_updated": "2026-08-29T04:40:17.376Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome groovy libraries, frameworks and resources",
+      "homepage": null,
       "id": 21746915,
       "language": "Groovy",
+      "license": "MIT",
       "last_commit": "2024-10-26T11:25:42Z",
+      "open_issues": 2,
       "owner": "kdabir",
       "repo": "awesome-groovy",
-      "stars": 740
+      "stars": 740,
+      "topics": [
+        "awesome",
+        "groovy",
+        "language",
+        "list"
+      ]
     },
     "original_repository_sha": "f298f64d3b5b1915c61b8c31c7bada60db636e91",
     "enhanced_repository": "enhansome/enhansome-groovy",
