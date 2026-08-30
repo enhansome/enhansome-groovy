@@ -26,7 +26,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Build tools, setup and CI
 
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,924 | 🐛 185 | 🌐 Groovy | 📅 2026-08-12 - A Groovy DSL for Jenkins Jobs
-* [Lazybones](https://github.com/pledbrook/lazybones) ⭐ 617 | 🐛 53 | 🌐 Groovy | 📅 2020-10-13 - A simple project creation tool that uses packaged project templates.
+* [Lazybones](https://github.com/pledbrook/lazybones) ⭐ 616 | 🐛 53 | 🌐 Groovy | 📅 2020-10-13 - A simple project creation tool that uses packaged project templates.
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) ⭐ 307 | 🐛 40 | 🌐 Java | 📅 2026-07-02 - A rewrite of GMaven, a Maven plugin for Groovy
 * [skeletal](https://github.com/cbmarcum/skeletal) ⭐ 21 | 🐛 13 | 🌐 Groovy | 📅 2025-12-14 - A simple project creation tool that uses packaged templates (successor of Lazybones)
 * [travis-groovy](https://github.com/kdabir/travis-groovy) ⚠️ Archived - execute groovy scripts on travis-ci
@@ -137,7 +137,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 
-* [picocli](https://github.com/remkop/picocli) ⭐ 5,418 | 🐛 171 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+* [picocli](https://github.com/remkop/picocli) ⭐ 5,418 | 🐛 172 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) ⭐ 362 | 🐛 30 | 🌐 Groovy | 📅 2023-03-22 - DSL library for working with remote servers through SSH.
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) ⭐ 21 | 🐛 1 | 🌐 Gradle | 📅 2018-10-13 - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) ⭐ 14 | 🐛 3 | 🌐 Gradle | 📅 2018-09-29 - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,463 | 🐛 19 | 🌐 Java | 📅 2026-08-29 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,463 | 🐛 15 | 🌐 Java | 📅 2026-08-30 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -231,4 +231,4 @@ To all the awesome-\* repos out there and their aggreators like [this](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
