@@ -25,7 +25,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Build tools, setup and CI
 
-* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,924 | 🐛 185 | 🌐 Groovy | 📅 2026-08-12 - A Groovy DSL for Jenkins Jobs
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,924 | 🐛 193 | 🌐 Groovy | 📅 2026-09-01 - A Groovy DSL for Jenkins Jobs
 * [Lazybones](https://github.com/pledbrook/lazybones) ⭐ 616 | 🐛 53 | 🌐 Groovy | 📅 2020-10-13 - A simple project creation tool that uses packaged project templates.
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) ⭐ 307 | 🐛 40 | 🌐 Java | 📅 2026-07-02 - A rewrite of GMaven, a Maven plugin for Groovy
 * [skeletal](https://github.com/cbmarcum/skeletal) ⭐ 21 | 🐛 13 | 🌐 Groovy | 📅 2025-12-14 - A simple project creation tool that uses packaged templates (successor of Lazybones)
@@ -79,7 +79,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 
-* [Spock](https://github.com/spockframework/spock) ⭐ 3,631 | 🐛 206 | 🌐 Java | 📅 2026-08-26 - The Enterprise-ready testing and specification framework.
+* [Spock](https://github.com/spockframework/spock) ⭐ 3,631 | 🐛 208 | 🌐 Java | 📅 2026-08-26 - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) ⭐ 1,173 | 🐛 20 | 🌐 Groovy | 📅 2026-08-11 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 473 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 51 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,464 | 🐛 12 | 🌐 Java | 📅 2026-08-31 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,465 | 🐛 13 | 🌐 Java | 📅 2026-09-01 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
