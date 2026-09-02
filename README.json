@@ -15,8 +15,8 @@
             "id": 5183393,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T12:25:19Z",
-            "open_issues": 193,
+            "last_commit": "2026-09-02T18:02:06Z",
+            "open_issues": 185,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1924,
@@ -419,7 +419,7 @@
             "open_issues": 54,
             "owner": "jgritman",
             "repo": "httpbuilder",
-            "stars": 313,
+            "stars": 312,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -542,11 +542,11 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T23:36:15Z",
-            "open_issues": 208,
+            "last_commit": "2026-09-02T11:08:15Z",
+            "open_issues": 209,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3631,
+            "stars": 3630,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1075,7 +1075,7 @@
             "open_issues": 172,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5419,
+            "stars": 5420,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:56:19.241Z",
+    "last_updated": "2026-09-02T22:56:43.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
@@ -1247,7 +1247,7 @@
       "open_issues": 2,
       "owner": "kdabir",
       "repo": "awesome-groovy",
-      "stars": 740,
+      "stars": 741,
       "topics": [
         "awesome",
         "groovy",
