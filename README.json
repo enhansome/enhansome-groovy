@@ -546,7 +546,7 @@
             "open_issues": 209,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3629,
+            "stars": 3630,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:56:07.797Z",
+    "last_updated": "2026-09-04T22:43:59.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
