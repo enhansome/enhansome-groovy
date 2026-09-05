@@ -611,7 +611,7 @@
             "open_issues": 16,
             "owner": "betamaxteam",
             "repo": "betamax",
-            "stars": 473,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1072,7 +1072,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 172,
+            "open_issues": 173,
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5421,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:43:59.726Z",
+    "last_updated": "2026-09-05T22:35:36.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",

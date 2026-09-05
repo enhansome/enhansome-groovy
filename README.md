@@ -81,7 +81,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Spock](https://github.com/spockframework/spock) ⭐ 3,630 | 🐛 209 | 🌐 Java | 📅 2026-09-03 - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) ⭐ 1,173 | 🐛 20 | 🌐 Groovy | 📅 2026-08-11 - Very Groovy Browser Automation
-* [Betamax](https://github.com/betamaxteam/betamax) ⭐ 473 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+* [Betamax](https://github.com/betamaxteam/betamax) ⭐ 472 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 51 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) ⚠️ Archived - HTTP Mock Server allows to mock HTTP request using groovy closures.
 * [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
@@ -137,7 +137,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 
-* [picocli](https://github.com/remkop/picocli) ⭐ 5,421 | 🐛 172 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+* [picocli](https://github.com/remkop/picocli) ⭐ 5,421 | 🐛 173 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) ⭐ 362 | 🐛 30 | 🌐 Groovy | 📅 2023-03-22 - DSL library for working with remote servers through SSH.
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) ⭐ 21 | 🐛 1 | 🌐 Gradle | 📅 2018-10-13 - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) ⭐ 14 | 🐛 3 | 🌐 Gradle | 📅 2018-09-29 - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,465 | 🐛 10 | 🌐 Java | 📅 2026-09-04 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,466 | 🐛 11 | 🌐 Java | 📅 2026-09-05 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 294 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,653 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 294 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,654 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
