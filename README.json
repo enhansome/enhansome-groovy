@@ -542,11 +542,11 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T22:20:30Z",
+            "last_commit": "2026-09-07T23:12:05Z",
             "open_issues": 209,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1075,7 +1075,7 @@
             "open_issues": 173,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5421,
+            "stars": 5422,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:38:26.076Z",
+    "last_updated": "2026-09-07T23:14:32.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
