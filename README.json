@@ -542,7 +542,7 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T23:12:05Z",
+            "last_commit": "2026-09-08T02:59:52Z",
             "open_issues": 209,
             "owner": "spockframework",
             "repo": "spock",
@@ -685,7 +685,7 @@
             "open_issues": 22,
             "owner": "GPars",
             "repo": "GPars",
-            "stars": 248,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:14:32.905Z",
+    "last_updated": "2026-09-08T23:06:46.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
