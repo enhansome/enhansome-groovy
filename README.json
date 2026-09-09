@@ -16,7 +16,7 @@
             "language": "Groovy",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T18:02:06Z",
-            "open_issues": 185,
+            "open_issues": 186,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1923,
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "description": "Create awesome apps on Google App Engine in a snap",
-            "homepage": "https://glide-gae.appspot.com",
+            "homepage": null,
             "id": 6797775,
             "language": "Groovy",
             "license": "MIT",
@@ -1075,7 +1075,7 @@
             "open_issues": 173,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5422,
+            "stars": 5423,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:06:46.502Z",
+    "last_updated": "2026-09-09T22:52:14.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
