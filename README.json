@@ -16,7 +16,7 @@
             "language": "Groovy",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T18:02:06Z",
-            "open_issues": 186,
+            "open_issues": 188,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1923,
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "grails",
             "repo": "grails",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -186,7 +186,7 @@
             "open_issues": 35,
             "owner": "gaelyk",
             "repo": "gaelyk",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -260,7 +260,7 @@
             "open_issues": 5,
             "owner": "poiati",
             "repo": "gmongo",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -281,7 +281,7 @@
             "open_issues": 5,
             "owner": "EqualExperts",
             "repo": "Tayra",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -398,7 +398,7 @@
             "open_issues": 41,
             "owner": "jwagenleitner",
             "repo": "groovy-wslite",
-            "stars": 398,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -419,7 +419,7 @@
             "open_issues": 54,
             "owner": "jgritman",
             "repo": "httpbuilder",
-            "stars": 312,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -542,7 +542,7 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T02:59:52Z",
+            "last_commit": "2026-09-10T22:01:33Z",
             "open_issues": 209,
             "owner": "spockframework",
             "repo": "spock",
@@ -573,7 +573,7 @@
             "open_issues": 20,
             "owner": "apache",
             "repo": "groovy-geb",
-            "stars": 1173,
+            "stars": 1174,
             "topics": [
               "apache",
               "bdd-style-testing-framework",
@@ -611,7 +611,7 @@
             "open_issues": 16,
             "owner": "betamaxteam",
             "repo": "betamax",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -760,7 +760,7 @@
             "open_issues": 6,
             "owner": "chiquitinxx",
             "repo": "grooscript",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -787,7 +787,7 @@
             "open_issues": 10,
             "owner": "kobo",
             "repo": "gaiden",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -808,7 +808,7 @@
             "open_issues": 0,
             "owner": "sysgears",
             "repo": "grain",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "grain-framework",
               "groovy",
@@ -860,7 +860,7 @@
             "open_issues": 23,
             "owner": "mperry",
             "repo": "functionalgroovy",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -902,7 +902,7 @@
             "open_issues": 3,
             "owner": "johnnywey",
             "repo": "flipside",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 0,
             "owner": "zhaber",
             "repo": "grules",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:52:14.025Z",
+    "last_updated": "2026-09-10T22:53:49.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",

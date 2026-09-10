@@ -25,7 +25,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Build tools, setup and CI
 
-* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,923 | 🐛 186 | 🌐 Groovy | 📅 2026-09-02 - A Groovy DSL for Jenkins Jobs
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,923 | 🐛 188 | 🌐 Groovy | 📅 2026-09-02 - A Groovy DSL for Jenkins Jobs
 * [Lazybones](https://github.com/pledbrook/lazybones) ⭐ 616 | 🐛 53 | 🌐 Groovy | 📅 2020-10-13 - A simple project creation tool that uses packaged project templates.
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) ⭐ 307 | 🐛 40 | 🌐 Java | 📅 2026-07-02 - A rewrite of GMaven, a Maven plugin for Groovy
 * [skeletal](https://github.com/cbmarcum/skeletal) ⭐ 21 | 🐛 13 | 🌐 Groovy | 📅 2025-12-14 - A simple project creation tool that uses packaged templates (successor of Lazybones)
@@ -47,7 +47,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,949 | 🐛 216 | 🌐 Java | 📅 2026-07-03 - A toolkit for JVM web applications
 * [Grails](https://github.com/grails/grails) ⚠️ Archived - A powerful web application framework based on the Groovy language
-* [Gaelyk](https://github.com/gaelyk/gaelyk) ⭐ 222 | 🐛 35 | 🌐 Groovy | 📅 2019-06-02 - A lightweight Groovy toolkit for Google App Engine Java
+* [Gaelyk](https://github.com/gaelyk/gaelyk) ⭐ 223 | 🐛 35 | 🌐 Groovy | 📅 2019-06-02 - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) ⭐ 54 | 🐛 13 | 🌐 Groovy | 📅 2019-01-31 - Create awesome apps on Google App Engine in a snap
 * [gServ](https://github.com/javaConductor/gserv) ⚠️ Archived - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 * [Micronaut](http://micronaut.io/) - A brand new microservices framework created by the Grails team
@@ -55,7 +55,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Database
 
-* [Gmongo](https://github.com/poiati/gmongo) ⭐ 185 | 🐛 5 | 🌐 Groovy | 📅 2016-04-29 - A Groovy wrapper to the mongodb Java driver
+* [Gmongo](https://github.com/poiati/gmongo) ⭐ 186 | 🐛 5 | 🌐 Groovy | 📅 2016-04-29 - A Groovy wrapper to the mongodb Java driver
 * [Tayra](https://github.com/EqualExperts/Tayra) ⚠️ Archived - Incremental backup tool for MongoDB
 * [Gstorm](https://github.com/kdabir/gstorm) ⭐ 87 | 🐛 28 | 🌐 Groovy | 📅 2022-03-28 - A simple ORM for simple databases and CSV files to be used in groovy scripts
 * [Groovy-liquibase](https://github.com/tlberglund/groovy-liquibase) ⭐ 85 | 🐛 1 | 🌐 Groovy | 📅 2015-11-23 - Yet Another Groovy DSL for Liquibase
@@ -70,8 +70,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## HTTP
 
-* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) ⭐ 398 | 🐛 41 | 🌐 Groovy | 📅 2024-03-04 - Lightweight SOAP and REST webservice clients for Groovy
-* [Http-Builder](https://github.com/jgritman/httpbuilder) ⭐ 312 | 🐛 54 | 🌐 Java | 📅 2023-12-17 - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) ⭐ 399 | 🐛 41 | 🌐 Groovy | 📅 2024-03-04 - Lightweight SOAP and REST webservice clients for Groovy
+* [Http-Builder](https://github.com/jgritman/httpbuilder) ⭐ 313 | 🐛 54 | 🌐 Java | 📅 2023-12-17 - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 * [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) ⚠️ Archived - HTTP Builder NG is a modern Groovy DSL for making http requests.
 * [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) ⚠️ Archived - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) ⭐ 5 | 🐛 0 | 🌐 Groovy | 📅 2021-07-05 - Combine the power of RESTClient with RxGroovy for async http calls
@@ -79,9 +79,9 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 
-* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 209 | 🌐 Java | 📅 2026-09-08 - The Enterprise-ready testing and specification framework.
-* [Geb](https://github.com/geb/geb) ⭐ 1,173 | 🐛 20 | 🌐 Groovy | 📅 2026-08-11 - Very Groovy Browser Automation
-* [Betamax](https://github.com/betamaxteam/betamax) ⭐ 472 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
+* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 209 | 🌐 Java | 📅 2026-09-10 - The Enterprise-ready testing and specification framework.
+* [Geb](https://github.com/geb/geb) ⭐ 1,174 | 🐛 20 | 🌐 Groovy | 📅 2026-08-11 - Very Groovy Browser Automation
+* [Betamax](https://github.com/betamaxteam/betamax) ⭐ 473 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 51 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) ⚠️ Archived - HTTP Mock Server allows to mock HTTP request using groovy closures.
 * [Dru](https://agorapulse.github.io/dru/) - Data Reconstruction Utility loads data from external sources JSON, YML for easy testing GORM, DynamoDB or just plain POJOs.
@@ -104,15 +104,15 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Static Web
 
-* [Gaiden](https://github.com/kobo/gaiden) ⭐ 171 | 🐛 10 | 🌐 Groovy | 📅 2022-12-16 - Gaiden is a tool that makes it easy to create documentation with Markdown.
-* [Grain](https://github.com/sysgears/grain) ⭐ 162 | 🐛 0 | 🌐 Groovy | 📅 2025-04-28 - Static Web Site Building Framework For Groovy
+* [Gaiden](https://github.com/kobo/gaiden) ⭐ 172 | 🐛 10 | 🌐 Groovy | 📅 2022-12-16 - Gaiden is a tool that makes it easy to create documentation with Markdown.
+* [Grain](https://github.com/sysgears/grain) ⭐ 163 | 🐛 0 | 🌐 Groovy | 📅 2025-04-28 - Static Web Site Building Framework For Groovy
 
 ## Language Utilities
 
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) ⭐ 72 | 🐛 6 | 🌐 Groovy | 📅 2022-07-12 - Lets you add things commonly useful to the Groovy language via the extension system
-* [Functionalgroovy](https://github.com/mperry/functionalgroovy) ⭐ 69 | 🐛 23 | 🌐 Groovy | 📅 2015-08-23 - Functional programming in Groovy
+* [Functionalgroovy](https://github.com/mperry/functionalgroovy) ⭐ 70 | 🐛 23 | 🌐 Groovy | 📅 2015-08-23 - Functional programming in Groovy
 * [Groovy-stream](https://github.com/timyates/groovy-stream) ⭐ 67 | 🐛 4 | 🌐 Java | 📅 2018-12-12 - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
-* [Flipside](https://github.com/johnnywey/flipside) ⭐ 22 | 🐛 3 | 🌐 Groovy | 📅 2017-11-06 - Simple Groovy options library
+* [Flipside](https://github.com/johnnywey/flipside) ⭐ 23 | 🐛 3 | 🌐 Groovy | 📅 2017-11-06 - Simple Groovy options library
 * [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) ⭐ 21 | 🐛 0 | 🌐 Groovy | 📅 2023-10-24 - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) ⭐ 2 | 🐛 2 | 🌐 Groovy | 📅 2023-05-15 - Adds extra methods to Lists via the extension system
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
@@ -144,7 +144,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Rule Engines
 
-* [grules](https://github.com/zhaber/grules) ⭐ 39 | 🐛 0 | 🌐 Groovy | 📅 2016-11-13 - rule engine for data preprocessing
+* [grules](https://github.com/zhaber/grules) ⭐ 40 | 🐛 0 | 🌐 Groovy | 📅 2016-11-13 - rule engine for data preprocessing
 * [n-cube](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 # Resources
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,466 | 🐛 14 | 🌐 Java | 📅 2026-09-09 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,466 | 🐛 10 | 🌐 Java | 📅 2026-09-10 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 294 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,660 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 294 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,662 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
