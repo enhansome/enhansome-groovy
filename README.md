@@ -137,7 +137,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 
-* [picocli](https://github.com/remkop/picocli) ⭐ 5,425 | 🐛 174 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+* [picocli](https://github.com/remkop/picocli) ⭐ 5,425 | 🐛 175 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) ⭐ 362 | 🐛 30 | 🌐 Groovy | 📅 2023-03-22 - DSL library for working with remote servers through SSH.
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) ⭐ 21 | 🐛 1 | 🌐 Gradle | 📅 2018-10-13 - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) ⭐ 14 | 🐛 3 | 🌐 Gradle | 📅 2018-09-29 - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,469 | 🐛 10 | 🌐 Groovy | 📅 2026-09-17 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,470 | 🐛 10 | 🌐 Groovy | 📅 2026-09-18 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 297 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 297 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
