@@ -79,7 +79,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 
-* [Spock](https://github.com/spockframework/spock) ⭐ 3,630 | 🐛 209 | 🌐 Java | 📅 2026-09-17 - The Enterprise-ready testing and specification framework.
+* [Spock](https://github.com/spockframework/spock) ⭐ 3,630 | 🐛 210 | 🌐 Java | 📅 2026-09-17 - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) ⭐ 1,175 | 🐛 20 | 🌐 Groovy | 📅 2026-08-11 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 473 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 53 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,470 | 🐛 11 | 🌐 Groovy | 📅 2026-09-19 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,471 | 🐛 14 | 🌐 Groovy | 📅 2026-09-20 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -231,4 +231,4 @@ To all the awesome-\* repos out there and their aggreators like [this](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
