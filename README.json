@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "grails",
             "repo": "grails",
-            "stars": 454,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -186,7 +186,7 @@
             "open_issues": 35,
             "owner": "gaelyk",
             "repo": "gaelyk",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -260,7 +260,7 @@
             "open_issues": 5,
             "owner": "poiati",
             "repo": "gmongo",
-            "stars": 186,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 31,
             "owner": "ysb33r",
             "repo": "groovy-vfs",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 175,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5425,
+            "stars": 5423,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:54:10.164Z",
+    "last_updated": "2026-09-21T23:46:21.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
