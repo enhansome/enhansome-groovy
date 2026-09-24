@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "grails",
             "repo": "grails",
-            "stars": 455,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -542,11 +542,11 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T23:27:15Z",
+            "last_commit": "2026-09-24T21:17:23Z",
             "open_issues": 211,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -569,8 +569,8 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T19:07:51Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-24T19:43:01Z",
+            "open_issues": 11,
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1175,
@@ -1072,10 +1072,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 175,
+            "open_issues": 176,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5425,
+            "stars": 5426,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:24:38.206Z",
+    "last_updated": "2026-09-24T23:43:13.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
