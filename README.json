@@ -144,7 +144,7 @@
             "open_issues": 216,
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1949,
+            "stars": 1948,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 176,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5427,
+            "stars": 5428,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:20:38.008Z",
+    "last_updated": "2026-09-27T23:32:47.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
