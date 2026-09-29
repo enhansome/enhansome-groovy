@@ -65,7 +65,7 @@
             "open_issues": 40,
             "owner": "groovy",
             "repo": "GMavenPlus",
-            "stars": 307,
+            "stars": 306,
             "topics": [
               "groovy",
               "maven-plugin"
@@ -569,8 +569,8 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T19:43:01Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-28T23:37:34Z",
+            "open_issues": 12,
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1175,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:32:47.066Z",
+    "last_updated": "2026-09-29T00:47:08.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",

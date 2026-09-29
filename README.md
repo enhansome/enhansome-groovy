@@ -27,7 +27,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,924 | 🐛 188 | 🌐 Groovy | 📅 2026-09-02 - A Groovy DSL for Jenkins Jobs
 * [Lazybones](https://github.com/pledbrook/lazybones) ⭐ 616 | 🐛 53 | 🌐 Groovy | 📅 2020-10-13 - A simple project creation tool that uses packaged project templates.
-* [GMavenPlus](https://github.com/groovy/GMavenPlus) ⭐ 307 | 🐛 40 | 🌐 Java | 📅 2026-07-02 - A rewrite of GMaven, a Maven plugin for Groovy
+* [GMavenPlus](https://github.com/groovy/GMavenPlus) ⭐ 306 | 🐛 40 | 🌐 Java | 📅 2026-07-02 - A rewrite of GMaven, a Maven plugin for Groovy
 * [skeletal](https://github.com/cbmarcum/skeletal) ⭐ 21 | 🐛 13 | 🌐 Groovy | 📅 2025-12-14 - A simple project creation tool that uses packaged templates (successor of Lazybones)
 * [travis-groovy](https://github.com/kdabir/travis-groovy) ⚠️ Archived - execute groovy scripts on travis-ci
 * [Gradle](https://www.gradle.org/) - A powerful build system for the JVM
@@ -80,7 +80,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Testing
 
 * [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 212 | 🌐 Java | 📅 2026-09-24 - The Enterprise-ready testing and specification framework.
-* [Geb](https://github.com/geb/geb) ⭐ 1,175 | 🐛 11 | 🌐 Groovy | 📅 2026-09-24 - Very Groovy Browser Automation
+* [Geb](https://github.com/geb/geb) ⭐ 1,175 | 🐛 12 | 🌐 Groovy | 📅 2026-09-28 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 473 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 53 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) ⚠️ Archived - HTTP Mock Server allows to mock HTTP request using groovy closures.
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,474 | 🐛 14 | 🌐 Groovy | 📅 2026-09-27 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,472 | 🐛 14 | 🌐 Groovy | 📅 2026-09-28 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 297 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,691 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 297 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,694 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
