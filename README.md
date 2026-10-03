@@ -45,7 +45,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 218 | 🌐 Java | 📅 2026-10-02 - A toolkit for JVM web applications
+* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 217 | 🌐 Java | 📅 2026-10-02 - A toolkit for JVM web applications
 * [Grails](https://github.com/grails/grails) ⚠️ Archived - A powerful web application framework based on the Groovy language
 * [Gaelyk](https://github.com/gaelyk/gaelyk) ⭐ 224 | 🐛 35 | 🌐 Groovy | 📅 2019-06-02 - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) ⭐ 54 | 🐛 13 | 🌐 Groovy | 📅 2019-01-31 - Create awesome apps on Google App Engine in a snap

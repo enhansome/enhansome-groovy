@@ -141,7 +141,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T04:30:27Z",
-            "open_issues": 218,
+            "open_issues": 217,
             "owner": "ratpack",
             "repo": "ratpack",
             "stars": 1948,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:06:07.845Z",
+    "last_updated": "2026-10-03T04:47:46.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
