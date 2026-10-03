@@ -45,7 +45,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 217 | 🌐 Java | 📅 2026-10-02 - A toolkit for JVM web applications
+* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 218 | 🌐 Java | 📅 2026-10-03 - A toolkit for JVM web applications
 * [Grails](https://github.com/grails/grails) ⚠️ Archived - A powerful web application framework based on the Groovy language
 * [Gaelyk](https://github.com/gaelyk/gaelyk) ⭐ 224 | 🐛 35 | 🌐 Groovy | 📅 2019-06-02 - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) ⭐ 54 | 🐛 13 | 🌐 Groovy | 📅 2019-01-31 - Create awesome apps on Google App Engine in a snap
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,474 | 🐛 14 | 🌐 Groovy | 📅 2026-10-02 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,475 | 🐛 14 | 🌐 Groovy | 📅 2026-10-03 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,7 +227,7 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 297 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 298 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
