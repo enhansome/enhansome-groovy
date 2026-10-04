@@ -543,7 +543,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T21:17:23Z",
-            "open_issues": 212,
+            "open_issues": 211,
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3630,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:28:07.153Z",
+    "last_updated": "2026-10-04T23:46:32.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
