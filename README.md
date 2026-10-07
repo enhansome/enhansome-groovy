@@ -45,7 +45,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 216 | 🌐 Java | 📅 2026-10-05 - A toolkit for JVM web applications
+* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,948 | 🐛 218 | 🌐 Java | 📅 2026-10-07 - A toolkit for JVM web applications
 * [Grails](https://github.com/grails/grails) ⚠️ Archived - A powerful web application framework based on the Groovy language
 * [Gaelyk](https://github.com/gaelyk/gaelyk) ⭐ 224 | 🐛 35 | 🌐 Groovy | 📅 2019-06-02 - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) ⭐ 54 | 🐛 13 | 🌐 Groovy | 📅 2019-01-31 - Create awesome apps on Google App Engine in a snap
@@ -79,8 +79,8 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 
-* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 206 | 🌐 Java | 📅 2026-10-06 - The Enterprise-ready testing and specification framework.
-* [Geb](https://github.com/geb/geb) ⭐ 1,173 | 🐛 10 | 🌐 Groovy | 📅 2026-10-01 - Very Groovy Browser Automation
+* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 205 | 🌐 Java | 📅 2026-10-06 - The Enterprise-ready testing and specification framework.
+* [Geb](https://github.com/geb/geb) ⭐ 1,174 | 🐛 9 | 🌐 Groovy | 📅 2026-10-06 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 473 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 53 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) ⚠️ Archived - HTTP Mock Server allows to mock HTTP request using groovy closures.
@@ -105,7 +105,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Static Web
 
 * [Gaiden](https://github.com/kobo/gaiden) ⭐ 172 | 🐛 10 | 🌐 Groovy | 📅 2022-12-16 - Gaiden is a tool that makes it easy to create documentation with Markdown.
-* [Grain](https://github.com/sysgears/grain) ⭐ 163 | 🐛 0 | 🌐 Groovy | 📅 2025-04-28 - Static Web Site Building Framework For Groovy
+* [Grain](https://github.com/sysgears/grain) ⭐ 162 | 🐛 0 | 🌐 Groovy | 📅 2025-04-28 - Static Web Site Building Framework For Groovy
 
 ## Language Utilities
 
@@ -137,7 +137,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 
-* [picocli](https://github.com/remkop/picocli) ⭐ 5,428 | 🐛 179 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+* [picocli](https://github.com/remkop/picocli) ⭐ 5,428 | 🐛 180 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) ⭐ 362 | 🐛 30 | 🌐 Groovy | 📅 2023-03-22 - DSL library for working with remote servers through SSH.
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) ⭐ 21 | 🐛 1 | 🌐 Gradle | 📅 2018-10-13 - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) ⭐ 14 | 🐛 3 | 🌐 Gradle | 📅 2018-09-29 - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
@@ -231,4 +231,4 @@ To all the awesome-\* repos out there and their aggreators like [this](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
