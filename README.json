@@ -144,7 +144,7 @@
             "open_issues": 217,
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1948,
+            "stars": 1947,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -542,8 +542,8 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T18:54:22Z",
-            "open_issues": 198,
+            "last_commit": "2026-10-08T16:12:11Z",
+            "open_issues": 196,
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3629,
@@ -569,8 +569,8 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T11:15:11Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-08T21:34:13Z",
+            "open_issues": 8,
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1174,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:40:10.371Z",
+    "last_updated": "2026-10-09T00:55:44.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
