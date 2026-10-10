@@ -542,8 +542,8 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:12:11Z",
-            "open_issues": 196,
+            "last_commit": "2026-10-09T18:32:58Z",
+            "open_issues": 197,
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3629,
@@ -573,7 +573,7 @@
             "open_issues": 8,
             "owner": "apache",
             "repo": "groovy-geb",
-            "stars": 1174,
+            "stars": 1173,
             "topics": [
               "apache",
               "bdd-style-testing-framework",
@@ -685,7 +685,7 @@
             "open_issues": 22,
             "owner": "GPars",
             "repo": "GPars",
-            "stars": 249,
+            "stars": 248,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 180,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5428,
+            "stars": 5429,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:55:44.651Z",
+    "last_updated": "2026-10-10T00:27:06.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
