@@ -141,7 +141,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T02:12:52Z",
-            "open_issues": 217,
+            "open_issues": 216,
             "owner": "ratpack",
             "repo": "ratpack",
             "stars": 1947,
@@ -542,11 +542,11 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T18:32:58Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-10T00:31:54Z",
+            "open_issues": 198,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3629,
+            "stars": 3628,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1075,7 +1075,7 @@
             "open_issues": 180,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5429,
+            "stars": 5430,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:27:06.317Z",
+    "last_updated": "2026-10-11T00:03:29.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
