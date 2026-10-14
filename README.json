@@ -16,7 +16,7 @@
             "language": "Groovy",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T14:38:05Z",
-            "open_issues": 189,
+            "open_issues": 191,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1923,
@@ -569,8 +569,8 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T21:38:51Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-14T22:07:40Z",
+            "open_issues": 7,
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1173,
@@ -1072,7 +1072,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 180,
+            "open_issues": 181,
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5435,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:04:09.763Z",
+    "last_updated": "2026-10-14T23:36:08.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
