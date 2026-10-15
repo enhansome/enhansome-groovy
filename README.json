@@ -329,7 +329,7 @@
             "open_issues": 1,
             "owner": "tlberglund",
             "repo": "groovy-liquibase",
-            "stars": 85,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -546,7 +546,7 @@
             "open_issues": 200,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3628,
+            "stars": 3629,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -685,7 +685,7 @@
             "open_issues": 22,
             "owner": "GPars",
             "repo": "GPars",
-            "stars": 248,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1072,7 +1072,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 181,
+            "open_issues": 183,
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5435,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:36:08.108Z",
+    "last_updated": "2026-10-15T23:30:13.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
