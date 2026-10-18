@@ -25,7 +25,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Build tools, setup and CI
 
-* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,924 | 🐛 191 | 🌐 Groovy | 📅 2026-10-01 - A Groovy DSL for Jenkins Jobs
+* [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) ⭐ 1,923 | 🐛 191 | 🌐 Groovy | 📅 2026-10-01 - A Groovy DSL for Jenkins Jobs
 * [Lazybones](https://github.com/pledbrook/lazybones) ⭐ 616 | 🐛 53 | 🌐 Groovy | 📅 2020-10-13 - A simple project creation tool that uses packaged project templates.
 * [GMavenPlus](https://github.com/groovy/GMavenPlus) ⭐ 306 | 🐛 40 | 🌐 Java | 📅 2026-07-02 - A rewrite of GMaven, a Maven plugin for Groovy
 * [skeletal](https://github.com/cbmarcum/skeletal) ⭐ 21 | 🐛 13 | 🌐 Groovy | 📅 2025-12-14 - A simple project creation tool that uses packaged templates (successor of Lazybones)
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,475 | 🐛 19 | 🌐 Groovy | 📅 2026-10-17 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,474 | 🐛 22 | 🌐 Groovy | 📅 2026-10-18 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 298 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,727 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 298 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,729 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
