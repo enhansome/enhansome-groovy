@@ -573,7 +573,7 @@
             "open_issues": 7,
             "owner": "apache",
             "repo": "groovy-geb",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "apache",
               "bdd-style-testing-framework",
@@ -1075,7 +1075,7 @@
             "open_issues": 184,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5440,
+            "stars": 5441,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:52:16.900Z",
+    "last_updated": "2026-10-22T23:49:24.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
