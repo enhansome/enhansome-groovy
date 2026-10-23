@@ -1075,7 +1075,7 @@
             "open_issues": 184,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5441,
+            "stars": 5442,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:49:24.058Z",
+    "last_updated": "2026-10-23T23:43:24.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
