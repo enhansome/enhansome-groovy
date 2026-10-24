@@ -144,7 +144,7 @@
             "open_issues": 217,
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1948,
+            "stars": 1947,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1117,7 +1117,7 @@
             "open_issues": 30,
             "owner": "sshoogr",
             "repo": "sshoogr",
-            "stars": 362,
+            "stars": 361,
             "topics": [
               "config-management",
               "dsl",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:43:24.511Z",
+    "last_updated": "2026-10-24T22:49:28.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
