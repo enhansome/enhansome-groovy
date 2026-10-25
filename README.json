@@ -923,7 +923,7 @@
             "open_issues": 0,
             "owner": "kayr",
             "repo": "fuzzy-csv",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 184,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5442,
+            "stars": 5443,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:49:28.751Z",
+    "last_updated": "2026-10-25T22:59:23.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
