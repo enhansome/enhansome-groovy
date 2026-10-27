@@ -1072,7 +1072,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 184,
+            "open_issues": 186,
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5443,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:59:23.927Z",
+    "last_updated": "2026-10-27T00:11:00.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
@@ -1247,7 +1247,7 @@
       "open_issues": 4,
       "owner": "kdabir",
       "repo": "awesome-groovy",
-      "stars": 742,
+      "stars": 743,
       "topics": [
         "awesome",
         "groovy",
