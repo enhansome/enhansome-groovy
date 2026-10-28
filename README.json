@@ -65,7 +65,7 @@
             "open_issues": 40,
             "owner": "groovy",
             "repo": "GMavenPlus",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "groovy",
               "maven-plugin"
@@ -542,8 +542,8 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T06:50:31Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-27T06:17:30Z",
+            "open_issues": 202,
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3630,
@@ -1075,7 +1075,7 @@
             "open_issues": 186,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5443,
+            "stars": 5444,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:11:00.269Z",
+    "last_updated": "2026-10-28T00:12:48.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
