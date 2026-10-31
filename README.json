@@ -1117,7 +1117,7 @@
             "open_issues": 30,
             "owner": "sshoogr",
             "repo": "sshoogr",
-            "stars": 361,
+            "stars": 360,
             "topics": [
               "config-management",
               "dsl",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:18:38.328Z",
+    "last_updated": "2026-10-31T23:54:35.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
