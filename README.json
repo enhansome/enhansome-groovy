@@ -15,8 +15,8 @@
             "id": 5183393,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:38:05Z",
-            "open_issues": 188,
+            "last_commit": "2026-11-01T12:23:09Z",
+            "open_issues": 197,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1924,
@@ -1075,7 +1075,7 @@
             "open_issues": 186,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5456,
+            "stars": 5457,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:54:35.224Z",
+    "last_updated": "2026-11-02T00:09:16.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
