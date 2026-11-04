@@ -546,7 +546,7 @@
             "open_issues": 204,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1072,7 +1072,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 186,
+            "open_issues": 187,
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5456,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:44:15.803Z",
+    "last_updated": "2026-11-04T00:59:54.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
