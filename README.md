@@ -71,7 +71,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## HTTP
 
 * [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) ⭐ 399 | 🐛 41 | 🌐 Groovy | 📅 2024-03-04 - Lightweight SOAP and REST webservice clients for Groovy
-* [Http-Builder](https://github.com/jgritman/httpbuilder) ⭐ 313 | 🐛 54 | 🌐 Java | 📅 2023-12-17 - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
+* [Http-Builder](https://github.com/jgritman/httpbuilder) ⭐ 312 | 🐛 54 | 🌐 Java | 📅 2023-12-17 - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 * [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) ⚠️ Archived - HTTP Builder NG is a modern Groovy DSL for making http requests.
 * [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) ⚠️ Archived - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
 * [AsyncRestClient](https://github.com/eginez/AsyncRestClient) ⭐ 5 | 🐛 0 | 🌐 Groovy | 📅 2021-07-05 - Combine the power of RESTClient with RxGroovy for async http calls
@@ -80,7 +80,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Testing
 
 * [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 205 | 🌐 Java | 📅 2026-11-05 - The Enterprise-ready testing and specification framework.
-* [Geb](https://github.com/geb/geb) ⭐ 1,173 | 🐛 8 | 🌐 Groovy | 📅 2026-11-04 - Very Groovy Browser Automation
+* [Geb](https://github.com/geb/geb) ⭐ 1,173 | 🐛 6 | 🌐 Groovy | 📅 2026-11-06 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 472 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 53 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
 * [HTTP Mock Server](https://github.com/TouK/http-mock-server) ⚠️ Archived - HTTP Mock Server allows to mock HTTP request using groovy closures.
@@ -137,7 +137,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 
-* [picocli](https://github.com/remkop/picocli) ⭐ 5,455 | 🐛 188 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+* [picocli](https://github.com/remkop/picocli) ⭐ 5,453 | 🐛 188 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) ⭐ 360 | 🐛 30 | 🌐 Groovy | 📅 2023-03-22 - DSL library for working with remote servers through SSH.
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) ⭐ 21 | 🐛 1 | 🌐 Gradle | 📅 2018-10-13 - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) ⭐ 14 | 🐛 3 | 🌐 Gradle | 📅 2018-09-29 - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,481 | 🐛 116 | 🌐 Groovy | 📅 2026-11-06 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,482 | 🐛 102 | 🌐 Groovy | 📅 2026-11-06 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -231,4 +231,4 @@ To all the awesome-\* repos out there and their aggreators like [this](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
