@@ -542,8 +542,8 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T17:46:18Z",
-            "open_issues": 205,
+            "last_commit": "2026-11-07T01:53:56Z",
+            "open_issues": 207,
             "owner": "spockframework",
             "repo": "spock",
             "stars": 3629,
@@ -1072,7 +1072,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-16T07:51:55Z",
-            "open_issues": 188,
+            "open_issues": 192,
             "owner": "remkop",
             "repo": "picocli",
             "stars": 5453,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:34:12.778Z",
+    "last_updated": "2026-11-08T00:08:39.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
