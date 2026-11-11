@@ -44,7 +44,7 @@
             "open_issues": 53,
             "owner": "pledbrook",
             "repo": "lazybones",
-            "stars": 616,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -569,7 +569,7 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T22:51:02Z",
+            "last_commit": "2026-11-10T21:19:36Z",
             "open_issues": 7,
             "owner": "apache",
             "repo": "groovy-geb",
@@ -1075,7 +1075,7 @@
             "open_issues": 192,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5453,
+            "stars": 5454,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:06:07.634Z",
+    "last_updated": "2026-11-11T00:58:21.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
