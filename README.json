@@ -15,8 +15,8 @@
             "id": 5183393,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T12:23:09Z",
-            "open_issues": 197,
+            "last_commit": "2026-11-13T19:53:18Z",
+            "open_issues": 189,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1922,
@@ -144,7 +144,7 @@
             "open_issues": 217,
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1947,
+            "stars": 1946,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -542,7 +542,7 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T01:53:56Z",
+            "last_commit": "2026-11-13T06:13:23Z",
             "open_issues": 208,
             "owner": "spockframework",
             "repo": "spock",
@@ -569,8 +569,8 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T20:43:57Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-13T21:48:48Z",
+            "open_issues": 7,
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1174,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:37:43.041Z",
+    "last_updated": "2026-11-14T01:11:40.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
