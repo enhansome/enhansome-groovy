@@ -79,7 +79,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 
-* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 208 | 🌐 Java | 📅 2026-11-13 - The Enterprise-ready testing and specification framework.
+* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 208 | 🌐 Java | 📅 2026-11-15 - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) ⭐ 1,174 | 🐛 7 | 🌐 Groovy | 📅 2026-11-13 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 472 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 53 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
@@ -105,7 +105,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Static Web
 
 * [Gaiden](https://github.com/kobo/gaiden) ⭐ 172 | 🐛 10 | 🌐 Groovy | 📅 2022-12-16 - Gaiden is a tool that makes it easy to create documentation with Markdown.
-* [Grain](https://github.com/sysgears/grain) ⭐ 162 | 🐛 0 | 🌐 Groovy | 📅 2025-04-28 - Static Web Site Building Framework For Groovy
+* [Grain](https://github.com/sysgears/grain) ⭐ 163 | 🐛 0 | 🌐 Groovy | 📅 2025-04-28 - Static Web Site Building Framework For Groovy
 
 ## Language Utilities
 
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,483 | 🐛 102 | 🌐 Groovy | 📅 2026-11-13 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,482 | 🐛 104 | 🌐 Groovy | 📅 2026-11-14 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -231,4 +231,4 @@ To all the awesome-\* repos out there and their aggreators like [this](https://g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

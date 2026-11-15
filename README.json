@@ -542,7 +542,7 @@
             "id": 1161862,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T06:13:23Z",
+            "last_commit": "2026-11-15T00:33:55Z",
             "open_issues": 208,
             "owner": "spockframework",
             "repo": "spock",
@@ -808,7 +808,7 @@
             "open_issues": 0,
             "owner": "sysgears",
             "repo": "grain",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "grain-framework",
               "groovy",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:11:40.493Z",
+    "last_updated": "2026-11-15T00:38:25.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
