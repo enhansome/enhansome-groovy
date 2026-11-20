@@ -45,7 +45,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Web Frameworks
 
-* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,946 | 🐛 217 | 🌐 Java | 📅 2026-10-07 - A toolkit for JVM web applications
+* [Ratpack](https://github.com/ratpack/ratpack) ⭐ 1,945 | 🐛 217 | 🌐 Java | 📅 2026-10-07 - A toolkit for JVM web applications
 * [Grails](https://github.com/grails/grails) ⚠️ Archived - A powerful web application framework based on the Groovy language
 * [Gaelyk](https://github.com/gaelyk/gaelyk) ⭐ 224 | 🐛 35 | 🌐 Groovy | 📅 2019-06-02 - A lightweight Groovy toolkit for Google App Engine Java
 * [Glide](https://github.com/kdabir/glide) ⭐ 54 | 🐛 13 | 🌐 Groovy | 📅 2019-01-31 - Create awesome apps on Google App Engine in a snap
@@ -70,7 +70,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## HTTP
 
-* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) ⭐ 399 | 🐛 41 | 🌐 Groovy | 📅 2024-03-04 - Lightweight SOAP and REST webservice clients for Groovy
+* [Groovy-wslite](https://github.com/jwagenleitner/groovy-wslite) ⭐ 400 | 🐛 41 | 🌐 Groovy | 📅 2024-03-04 - Lightweight SOAP and REST webservice clients for Groovy
 * [Http-Builder](https://github.com/jgritman/httpbuilder) ⭐ 312 | 🐛 54 | 🌐 Java | 📅 2023-12-17 - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 * [HTTP Builder NG](https://github.com/http-builder-ng/http-builder-ng) ⚠️ Archived - HTTP Builder NG is a modern Groovy DSL for making http requests.
 * [HTTP Builder NG Gradle Plugin](https://github.com/http-builder-ng/gradle-http-plugin) ⚠️ Archived - Gradle plugin providing HTTP Builder NG support in a Gradle build configuration.
@@ -79,7 +79,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Testing
 
-* [Spock](https://github.com/spockframework/spock) ⭐ 3,629 | 🐛 208 | 🌐 Java | 📅 2026-11-17 - The Enterprise-ready testing and specification framework.
+* [Spock](https://github.com/spockframework/spock) ⭐ 3,628 | 🐛 208 | 🌐 Java | 📅 2026-11-17 - The Enterprise-ready testing and specification framework.
 * [Geb](https://github.com/geb/geb) ⭐ 1,174 | 🐛 6 | 🌐 Groovy | 📅 2026-11-17 - Very Groovy Browser Automation
 * [Betamax](https://github.com/betamaxteam/betamax) ⭐ 472 | 🐛 16 | 🌐 Groovy | 📅 2017-05-28 - Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests.
 * [Ersatz Mock Server](https://github.com/cjstehno/ersatz) ⭐ 53 | 🐛 10 | 🌐 Java | 📅 2026-03-26 - A simple and expressive simulated HTTP server for testing client code with configurable responses.
@@ -137,7 +137,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Scripting Tools
 
-* [picocli](https://github.com/remkop/picocli) ⭐ 5,456 | 🐛 195 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
+* [picocli](https://github.com/remkop/picocli) ⭐ 5,455 | 🐛 195 | 🌐 Java | 📅 2026-08-16 - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) ⭐ 360 | 🐛 30 | 🌐 Groovy | 📅 2023-03-22 - DSL library for working with remote servers through SSH.
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) ⭐ 21 | 🐛 1 | 🌐 Gradle | 📅 2018-10-13 - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) ⭐ 14 | 🐛 3 | 🌐 Gradle | 📅 2018-09-29 - Gradle script plugin to generate documentation by Dokka documentation engine for Java and Kotlin
@@ -152,7 +152,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 ## Official Resources
 
 * [The official groovy home](http://www.groovy-lang.org/) - Groovy's new home
-* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,484 | 🐛 85 | 🌐 Groovy | 📅 2026-11-18 - Groovy's source code mirrored on Github
+* [Groovy's source](https://github.com/apache/groovy) ⭐ 5,485 | 🐛 85 | 🌐 Groovy | 📅 2026-11-19 - Groovy's source code mirrored on Github
 * [Groovy mailing lists](http://www.groovy-lang.org/mailing-lists.html) - Note the new mailing list
 * [Official Documentation](http://www.groovy-lang.org/documentation.html) - the definitive source of groovy documentation
 
@@ -227,8 +227,8 @@ groovy "https://git.io/awesome" -l groovy glide
 
 # Credits
 
-To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 299 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,797 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02.
+To all the awesome-\* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) ⭐ 299 | 🐛 3 | 📅 2023-11-13 and [this](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,800 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

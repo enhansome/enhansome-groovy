@@ -144,7 +144,7 @@
             "open_issues": 217,
             "owner": "ratpack",
             "repo": "ratpack",
-            "stars": 1946,
+            "stars": 1945,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -398,7 +398,7 @@
             "open_issues": 41,
             "owner": "jwagenleitner",
             "repo": "groovy-wslite",
-            "stars": 399,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -546,7 +546,7 @@
             "open_issues": 208,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3629,
+            "stars": 3628,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1075,7 +1075,7 @@
             "open_issues": 195,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5456,
+            "stars": 5455,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:11:47.156Z",
+    "last_updated": "2026-11-20T01:58:54.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
