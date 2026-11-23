@@ -19,7 +19,7 @@
             "open_issues": 187,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
-            "stars": 1923,
+            "stars": 1924,
             "topics": [
               "adopt-this-plugin",
               "groovy",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:51:42.942Z",
+    "last_updated": "2026-11-23T01:20:49.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
