@@ -16,7 +16,7 @@
             "language": "Groovy",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T02:00:33Z",
-            "open_issues": 187,
+            "open_issues": 188,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
             "stars": 1924,
@@ -546,7 +546,7 @@
             "open_issues": 208,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3628,
+            "stars": 3629,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -1075,7 +1075,7 @@
             "open_issues": 195,
             "owner": "remkop",
             "repo": "picocli",
-            "stars": 5455,
+            "stars": 5457,
             "topics": [
               "annotations",
               "ansi",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:20:49.706Z",
+    "last_updated": "2026-11-24T05:06:08.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
@@ -1244,7 +1244,7 @@
       "language": "Groovy",
       "license": "MIT",
       "last_commit": "2024-10-26T11:25:42Z",
-      "open_issues": 4,
+      "open_issues": 2,
       "owner": "kdabir",
       "repo": "awesome-groovy",
       "stars": 744,
