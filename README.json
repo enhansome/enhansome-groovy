@@ -19,7 +19,7 @@
             "open_issues": 188,
             "owner": "jenkinsci",
             "repo": "job-dsl-plugin",
-            "stars": 1924,
+            "stars": 1923,
             "topics": [
               "adopt-this-plugin",
               "groovy",
@@ -44,7 +44,7 @@
             "open_issues": 53,
             "owner": "pledbrook",
             "repo": "lazybones",
-            "stars": 617,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:19.177Z"
@@ -546,7 +546,7 @@
             "open_issues": 208,
             "owner": "spockframework",
             "repo": "spock",
-            "stars": 3629,
+            "stars": 3630,
             "topics": [
               "bdd-style-testing-framework",
               "groovy",
@@ -569,8 +569,8 @@
             "id": 813783,
             "language": "Groovy",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T20:29:17Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-25T11:13:24Z",
+            "open_issues": 7,
             "owner": "apache",
             "repo": "groovy-geb",
             "stars": 1174,
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:54:45.835Z",
+    "last_updated": "2026-11-26T03:20:34.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome groovy libraries, frameworks and resources",
